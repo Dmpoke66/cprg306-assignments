@@ -1,10 +1,10 @@
 import StudentInfo from './student-info';
 
-export default function Week2Page() {
+export default function Page() {
   return (
-    <div>
-      <h1>Week 2</h1>
+    <main>
+      <h1>Shopping List</h1>
       <StudentInfo />
-    </div>
+    </main>
   );
 }
