@@ -1,7 +1,7 @@
 import Link from "next/link";
 
 export default function Home() {
-  const weeks = [2, 3, 4, 5]; // Add more week numbers as needed
+  const weeks = [2, 3, 4, 5, 6, 7, 8, 9, 10]; // Add more week numbers as needed
 
   return (
     <main className="p-8">
