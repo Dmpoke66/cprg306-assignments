@@ -1,21 +1,14 @@
-'use client';
+import Link from "next/link";
 
-import Link from 'next/link';
-
-const StudentInfo = () => {
+export default function StudentInfo() {
   return (
     <div>
-      <h2>Daniel Maliczewski</h2>
+      <p>Daniel Maliczewski</p>
       <p>
-        GitHub Repository:{' '}
         <Link href="https://github.com/Dmpoke66/cprg306-assignments" target="_blank">
-          Visit my GitHub
+          My GitHub Repository
         </Link>
       </p>
     </div>
   );
-};
-
-export default StudentInfo;
-
-
+}
