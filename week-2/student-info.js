@@ -5,7 +5,7 @@ export default function StudentInfo() {
     <div>
       <p>Daniel Maliczewski</p>
       <p>
-        <Link href="https://github.com/Dmpoke66/cprg306-assignments" target="_blank">
+        <Link href="https://github.com/Dmpoke66/cprg306-assignments/app/week-2" target="_blank">
           My GitHub Repository
         </Link>
       </p>
